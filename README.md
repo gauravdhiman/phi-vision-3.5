@@ -45,6 +45,10 @@ To run the Image Analyzer:
    ```
    chainlit run app.py -w
    ```
+   or
+   ```
+   ./run_app.sh
+   ```
 
 2. Open your web browser and navigate to the URL provided in the terminal (usually `http://localhost:8000`).
 
